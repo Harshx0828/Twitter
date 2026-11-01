@@ -1,0 +1,24 @@
+.list-wrapper{
+border: 2px black solid;
+padding: 1rem;
+margin-bottom: 1rem;
+}
+likes{
+    font-size: smaller;
+}
+.class-list-wrapper{
+     list-style: none;
+}
+.like-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.edit-button-wrapper{
+    margin-top: 1rem;
+}
+.sorttweet{
+    margin-left: 1rem;
+}
+.delete-btn{
+    margin-left: 1rem;
+}
